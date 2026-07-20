@@ -1,0 +1,1001 @@
+ProductID,Category,Brand,ProductName,Cost,Price
+1,Electronics,Fusion,Camera,41.86,59.86
+2,Sports,Prime,Tennis Racket,392.99,738.82
+3,Electronics,Prime,Tablet,92.41,117.36
+4,Electronics,Atlas,Phone,606.35,897.4
+5,Electronics,Prime,Laptop,186.82,375.51
+6,Furniture,Vertex,Cabinet,664.17,1162.3
+7,Sports,Atlas,Football,267.77,546.25
+8,Electronics,Nova,Headphones,191.12,261.83
+9,Furniture,Vertex,Bookshelf,435.26,661.6
+10,Sports,Apex,Tennis Racket,453.4,875.06
+11,Home,Fusion,Blender,115.22,169.37
+12,Furniture,Fusion,Standing Desk,506.96,1079.82
+13,Furniture,Nova,Desk,220.16,453.53
+14,Home,Pioneer,Vacuum,576.32,876.01
+15,Home,Prime,Coffee Maker,251.5,510.54
+16,Clothing,Pioneer,T-Shirt,134.68,278.79
+17,Clothing,Vertex,Jeans,382.71,539.62
+18,Electronics,Prime,Phone,331.53,510.56
+19,Clothing,Atlas,Jeans,361.52,817.04
+20,Sports,Apex,Basketball,541.57,1083.14
+21,Furniture,Prime,Cabinet,489.7,866.77
+22,Clothing,Atlas,Jeans,509.22,687.45
+23,Electronics,Nova,Mouse,31.09,60.94
+24,Clothing,Prime,Jacket,147.22,212.0
+25,Clothing,Apex,Jacket,580.83,859.63
+26,Electronics,Prime,Headphones,511.27,1068.55
+27,Electronics,Atlas,Phone,70.73,131.56
+28,Home,Vertex,Vacuum,383.34,716.85
+29,Furniture,Fusion,Cabinet,68.54,133.65
+30,Furniture,Vertex,Chair,286.47,446.89
+31,Electronics,Nova,Headphones,599.1,1198.2
+32,Sports,Fusion,Tennis Racket,350.18,791.41
+33,Electronics,Prime,Camera,672.71,1439.6
+34,Sports,Vertex,Tennis Racket,624.82,756.03
+35,Furniture,Nova,Desk,698.1,858.66
+36,Clothing,Atlas,Sneakers,82.85,111.02
+37,Sports,Fusion,Basketball,174.85,283.26
+38,Home,Atlas,Blender,511.84,1079.98
+39,Electronics,Pioneer,Headphones,642.09,1393.34
+40,Furniture,Vertex,Bookshelf,260.69,539.63
+41,Electronics,Nova,Phone,221.3,283.26
+42,Sports,Vertex,Tennis Racket,204.35,365.79
+43,Furniture,Nova,Bookshelf,373.27,589.77
+44,Sports,Vertex,Football,530.78,875.79
+45,Furniture,Nova,Chair,426.56,750.75
+46,Furniture,Nova,Bookshelf,196.14,307.94
+47,Electronics,Prime,Keyboard,653.98,1281.8
+48,Clothing,Pioneer,Jacket,366.18,604.2
+49,Electronics,Apex,Mouse,443.18,912.95
+50,Furniture,Prime,Bookshelf,655.24,1094.25
+51,Electronics,Prime,Phone,85.98,115.21
+52,Electronics,Nova,Laptop,660.97,1427.7
+53,Sports,Atlas,Football,256.12,420.04
+54,Electronics,Nova,Laptop,273.47,533.27
+55,Clothing,Vertex,Jacket,74.46,103.5
+56,Clothing,Atlas,Jeans,252.28,529.79
+57,Sports,Pioneer,Football,308.19,406.81
+58,Home,Vertex,Microwave,535.32,1022.46
+59,Sports,Apex,Football,688.82,1453.41
+60,Electronics,Nova,Phone,173.26,379.44
+61,Sports,Vertex,Yoga Mat,547.27,864.69
+62,Home,Fusion,Lamp,516.98,920.22
+63,Electronics,Pioneer,Monitor,167.45,269.59
+64,Electronics,Pioneer,Laptop,76.22,122.71
+65,Electronics,Atlas,Laptop,357.64,819.0
+66,Electronics,Nova,Keyboard,203.61,285.05
+67,Home,Prime,Blender,410.11,565.95
+68,Sports,Prime,Tennis Racket,438.52,828.8
+69,Sports,Pioneer,Tennis Racket,566.61,1223.88
+70,Clothing,Pioneer,Hat,451.02,920.08
+71,Home,Atlas,Vacuum,622.96,953.13
+72,Clothing,Vertex,Hat,271.95,611.89
+73,Furniture,Prime,Standing Desk,397.91,604.82
+74,Sports,Prime,Bicycle,400.79,829.64
+75,Furniture,Prime,Chair,623.93,823.59
+76,Furniture,Fusion,Standing Desk,547.47,1122.31
+77,Home,Fusion,Lamp,394.09,878.82
+78,Sports,Fusion,Basketball,693.07,1192.08
+79,Electronics,Nova,Camera,535.84,1216.36
+80,Home,Pioneer,Coffee Maker,525.75,809.65
+81,Furniture,Pioneer,Cabinet,426.68,665.62
+82,Sports,Atlas,Bicycle,456.88,1000.57
+83,Furniture,Apex,Cabinet,531.12,1125.97
+84,Electronics,Nova,Mouse,672.21,1465.42
+85,Furniture,Atlas,Cabinet,428.95,677.74
+86,Furniture,Pioneer,Bookshelf,415.41,660.5
+87,Furniture,Atlas,Bookshelf,464.34,603.64
+88,Home,Nova,Lamp,267.92,442.07
+89,Furniture,Nova,Desk,395.45,826.49
+90,Furniture,Apex,Chair,566.03,877.35
+91,Electronics,Fusion,Keyboard,591.1,1211.75
+92,Sports,Apex,Football,172.22,358.22
+93,Sports,Nova,Bicycle,440.1,545.72
+94,Furniture,Pioneer,Bookshelf,527.87,633.44
+95,Sports,Fusion,Yoga Mat,422.27,928.99
+96,Electronics,Fusion,Laptop,86.16,196.44
+97,Sports,Prime,Football,57.16,110.89
+98,Sports,Nova,Bicycle,577.37,1218.25
+99,Electronics,Pioneer,Phone,265.76,334.86
+100,Clothing,Prime,T-Shirt,208.66,390.19
+101,Clothing,Prime,T-Shirt,319.93,655.86
+102,Sports,Pioneer,Football,610.93,1368.48
+103,Home,Pioneer,Coffee Maker,39.96,64.34
+104,Clothing,Fusion,Jeans,16.69,29.04
+105,Sports,Fusion,Bicycle,276.56,348.47
+106,Furniture,Vertex,Bookshelf,535.26,883.18
+107,Sports,Nova,Football,244.46,442.47
+108,Home,Vertex,Microwave,646.37,1434.94
+109,Sports,Nova,Tennis Racket,51.42,105.93
+110,Home,Vertex,Lamp,473.87,706.07
+111,Furniture,Vertex,Chair,320.44,416.57
+112,Clothing,Apex,Jeans,501.87,697.6
+113,Home,Fusion,Vacuum,329.7,731.93
+114,Electronics,Vertex,Monitor,595.43,1303.99
+115,Electronics,Nova,Phone,424.03,508.84
+116,Furniture,Pioneer,Bookshelf,170.39,299.89
+117,Clothing,Apex,Jacket,330.07,594.13
+118,Home,Pioneer,Vacuum,137.32,232.07
+119,Sports,Pioneer,Bicycle,218.43,404.1
+120,Furniture,Fusion,Cabinet,229.5,309.83
+121,Clothing,Fusion,Hat,34.89,73.27
+122,Clothing,Vertex,Jeans,696.48,1016.86
+123,Clothing,Vertex,T-Shirt,281.86,504.53
+124,Home,Vertex,Microwave,468.76,651.58
+125,Electronics,Fusion,Laptop,584.6,1110.74
+126,Sports,Vertex,Tennis Racket,579.99,759.79
+127,Clothing,Atlas,Hat,651.76,1081.92
+128,Sports,Pioneer,Bicycle,515.51,896.99
+129,Sports,Prime,Yoga Mat,167.54,279.79
+130,Furniture,Atlas,Cabinet,173.91,231.3
+131,Furniture,Nova,Cabinet,478.66,741.92
+132,Clothing,Pioneer,Jacket,402.84,680.8
+133,Electronics,Pioneer,Camera,551.0,1019.35
+134,Home,Fusion,Microwave,478.12,1094.89
+135,Home,Vertex,Vacuum,284.85,635.22
+136,Home,Prime,Lamp,547.02,743.95
+137,Electronics,Vertex,Mouse,536.35,863.52
+138,Electronics,Apex,Tablet,130.41,246.47
+139,Furniture,Pioneer,Desk,694.54,1354.35
+140,Clothing,Fusion,T-Shirt,545.21,975.93
+141,Electronics,Nova,Keyboard,286.43,392.41
+142,Sports,Apex,Football,55.56,101.67
+143,Sports,Nova,Yoga Mat,678.4,1377.15
+144,Sports,Vertex,Tennis Racket,376.31,733.8
+145,Home,Atlas,Lamp,428.23,650.91
+146,Electronics,Prime,Tablet,93.18,205.93
+147,Clothing,Vertex,T-Shirt,666.22,1305.79
+148,Sports,Pioneer,Yoga Mat,682.63,1269.69
+149,Clothing,Apex,Hat,678.5,1295.93
+150,Sports,Atlas,Bicycle,593.06,1109.02
+151,Electronics,Atlas,Phone,202.08,343.54
+152,Sports,Nova,Yoga Mat,673.89,1368.0
+153,Home,Atlas,Vacuum,253.07,354.3
+154,Home,Prime,Microwave,276.39,392.47
+155,Furniture,Fusion,Desk,654.06,1111.9
+156,Electronics,Fusion,Phone,504.99,974.63
+157,Home,Vertex,Lamp,374.88,607.31
+158,Sports,Pioneer,Tennis Racket,641.15,1128.42
+159,Furniture,Fusion,Chair,227.48,416.29
+160,Electronics,Pioneer,Mouse,478.69,574.43
+161,Furniture,Nova,Chair,261.23,514.62
+162,Clothing,Pioneer,Sneakers,269.75,507.13
+163,Home,Vertex,Lamp,31.63,61.36
+164,Clothing,Prime,Hat,127.26,257.07
+165,Clothing,Fusion,Jeans,179.59,400.49
+166,Home,Prime,Lamp,278.88,376.49
+167,Sports,Vertex,Bicycle,134.05,197.05
+168,Sports,Prime,Tennis Racket,593.49,1228.52
+169,Furniture,Atlas,Chair,384.6,842.27
+170,Electronics,Pioneer,Mouse,286.41,426.75
+171,Clothing,Fusion,Jacket,375.46,589.47
+172,Furniture,Vertex,Standing Desk,275.41,625.18
+173,Home,Apex,Lamp,159.05,311.74
+174,Sports,Vertex,Tennis Racket,548.27,882.71
+175,Sports,Apex,Basketball,394.15,642.46
+176,Electronics,Prime,Camera,365.66,822.74
+177,Sports,Fusion,Bicycle,15.86,24.58
+178,Clothing,Pioneer,Jeans,160.82,226.76
+179,Sports,Prime,Basketball,615.04,1340.79
+180,Sports,Fusion,Basketball,648.79,856.4
+181,Sports,Prime,Yoga Mat,119.55,169.76
+182,Clothing,Nova,Hat,169.03,349.89
+183,Clothing,Apex,Jacket,279.2,362.96
+184,Home,Nova,Vacuum,232.1,362.08
+185,Furniture,Prime,Chair,259.45,563.01
+186,Home,Nova,Microwave,510.85,1149.41
+187,Furniture,Nova,Bookshelf,315.89,489.63
+188,Sports,Prime,Bicycle,667.15,907.32
+189,Electronics,Nova,Keyboard,665.52,1377.63
+190,Clothing,Nova,Jacket,322.36,606.04
+191,Sports,Pioneer,Tennis Racket,333.66,423.75
+192,Furniture,Vertex,Bookshelf,9.67,15.47
+193,Sports,Fusion,Tennis Racket,392.67,801.05
+194,Furniture,Prime,Chair,654.95,1185.46
+195,Home,Prime,Microwave,45.57,71.09
+196,Sports,Atlas,Tennis Racket,293.78,596.37
+197,Home,Fusion,Blender,212.56,293.33
+198,Clothing,Pioneer,Hat,239.41,481.21
+199,Clothing,Fusion,Hat,444.36,893.16
+200,Clothing,Apex,Jeans,552.39,1176.59
+201,Furniture,Nova,Cabinet,94.58,212.81
+202,Electronics,Prime,Headphones,689.84,848.5
+203,Electronics,Apex,Laptop,34.8,72.38
+204,Furniture,Vertex,Cabinet,454.9,664.15
+205,Furniture,Nova,Desk,560.52,1210.72
+206,Furniture,Atlas,Desk,230.16,398.18
+207,Furniture,Nova,Bookshelf,391.1,547.54
+208,Clothing,Atlas,Jeans,202.63,358.66
+209,Home,Fusion,Microwave,412.57,944.79
+210,Furniture,Vertex,Bookshelf,674.35,1321.73
+211,Home,Pioneer,Microwave,629.71,1303.5
+212,Clothing,Apex,Sneakers,109.04,131.94
+213,Sports,Nova,Football,643.87,978.68
+214,Sports,Atlas,Football,564.74,784.99
+215,Electronics,Vertex,Tablet,137.34,174.42
+216,Sports,Pioneer,Football,615.67,1175.93
+217,Clothing,Nova,Hat,69.36,111.67
+218,Electronics,Vertex,Monitor,293.68,511.0
+219,Sports,Prime,Yoga Mat,244.78,438.16
+220,Home,Fusion,Microwave,365.48,475.12
+221,Furniture,Apex,Chair,630.4,1090.59
+222,Clothing,Vertex,Jeans,395.62,589.47
+223,Home,Apex,Coffee Maker,604.6,1354.3
+224,Furniture,Prime,Cabinet,67.71,142.19
+225,Home,Pioneer,Microwave,630.26,1140.77
+226,Electronics,Pioneer,Headphones,41.9,90.5
+227,Home,Fusion,Vacuum,453.57,630.46
+228,Furniture,Vertex,Chair,312.81,622.49
+229,Sports,Nova,Tennis Racket,676.8,1522.8
+230,Clothing,Atlas,Jacket,124.92,228.6
+231,Sports,Nova,Football,519.99,1128.38
+232,Home,Pioneer,Blender,461.79,849.69
+233,Clothing,Vertex,Jacket,389.43,529.62
+234,Clothing,Atlas,Jeans,493.22,725.03
+235,Sports,Apex,Football,227.54,507.41
+236,Home,Pioneer,Vacuum,344.93,658.82
+237,Home,Vertex,Coffee Maker,117.29,191.18
+238,Electronics,Prime,Mouse,186.42,275.9
+239,Home,Fusion,Lamp,502.27,668.02
+240,Sports,Vertex,Tennis Racket,309.96,437.04
+241,Home,Pioneer,Vacuum,117.65,183.53
+242,Sports,Pioneer,Yoga Mat,533.02,1172.64
+243,Electronics,Apex,Monitor,345.78,753.8
+244,Furniture,Atlas,Cabinet,666.11,1492.09
+245,Furniture,Prime,Chair,108.72,227.22
+246,Electronics,Prime,Tablet,556.3,912.33
+247,Electronics,Apex,Monitor,125.42,272.16
+248,Sports,Fusion,Yoga Mat,426.57,951.25
+249,Sports,Apex,Tennis Racket,356.61,652.6
+250,Furniture,Vertex,Standing Desk,468.81,745.41
+251,Sports,Prime,Yoga Mat,647.39,1346.57
+252,Electronics,Vertex,Monitor,17.05,38.87
+253,Home,Atlas,Vacuum,571.2,1222.37
+254,Clothing,Prime,T-Shirt,324.85,513.26
+255,Furniture,Prime,Chair,611.04,1118.2
+256,Electronics,Vertex,Laptop,546.37,1043.57
+257,Sports,Vertex,Bicycle,466.49,606.44
+258,Home,Vertex,Blender,459.36,923.31
+259,Electronics,Fusion,Monitor,638.6,1168.64
+260,Electronics,Atlas,Monitor,482.31,844.04
+261,Electronics,Pioneer,Tablet,281.48,534.81
+262,Furniture,Pioneer,Desk,149.04,198.22
+263,Home,Nova,Microwave,329.25,635.45
+264,Electronics,Nova,Phone,85.57,138.62
+265,Furniture,Nova,Chair,34.09,64.09
+266,Home,Atlas,Coffee Maker,507.48,979.44
+267,Home,Pioneer,Coffee Maker,142.58,269.48
+268,Furniture,Fusion,Desk,209.06,294.77
+269,Clothing,Fusion,Jacket,377.62,728.81
+270,Clothing,Apex,Hat,77.02,157.12
+271,Furniture,Atlas,Desk,67.62,82.5
+272,Home,Nova,Lamp,102.72,161.27
+273,Sports,Apex,Bicycle,687.48,941.85
+274,Home,Vertex,Coffee Maker,16.89,35.64
+275,Clothing,Nova,Jeans,506.49,1073.76
+276,Electronics,Apex,Monitor,502.39,919.37
+277,Furniture,Nova,Cabinet,350.11,427.13
+278,Furniture,Fusion,Bookshelf,87.46,131.19
+279,Clothing,Apex,Hat,232.01,371.22
+280,Furniture,Nova,Chair,593.21,883.88
+281,Furniture,Nova,Desk,102.89,178.0
+282,Home,Vertex,Vacuum,256.47,353.93
+283,Sports,Atlas,Yoga Mat,198.16,273.46
+284,Electronics,Fusion,Camera,504.59,1140.37
+285,Home,Vertex,Lamp,20.55,29.8
+286,Clothing,Apex,Hat,456.82,1000.44
+287,Clothing,Pioneer,Jeans,667.28,914.17
+288,Electronics,Nova,Monitor,492.33,1058.51
+289,Furniture,Fusion,Desk,91.66,172.32
+290,Home,Apex,Lamp,640.37,1216.7
+291,Home,Atlas,Blender,437.92,705.05
+292,Clothing,Vertex,Jeans,203.11,432.62
+293,Clothing,Prime,Sneakers,589.9,796.37
+294,Clothing,Atlas,Sneakers,306.76,404.92
+295,Electronics,Nova,Phone,559.1,989.61
+296,Furniture,Fusion,Desk,565.24,1136.13
+297,Sports,Prime,Football,74.76,122.61
+298,Electronics,Atlas,Camera,117.5,207.97
+299,Electronics,Fusion,Phone,569.57,1104.97
+300,Electronics,Nova,Tablet,416.96,900.63
+301,Clothing,Nova,T-Shirt,327.1,464.48
+302,Home,Pioneer,Microwave,75.66,95.33
+303,Furniture,Prime,Standing Desk,60.4,75.5
+304,Clothing,Fusion,Jeans,679.13,1528.04
+305,Clothing,Pioneer,Jacket,561.71,780.78
+306,Furniture,Apex,Desk,17.11,28.74
+307,Sports,Pioneer,Tennis Racket,475.07,802.87
+308,Home,Nova,Lamp,181.36,223.07
+309,Sports,Prime,Basketball,236.97,545.03
+310,Furniture,Fusion,Cabinet,284.79,598.06
+311,Clothing,Vertex,Sneakers,623.3,1047.14
+312,Electronics,Prime,Mouse,411.68,732.79
+313,Furniture,Apex,Bookshelf,18.19,22.92
+314,Home,Apex,Microwave,300.77,463.19
+315,Sports,Nova,Basketball,529.79,1096.67
+316,Home,Apex,Lamp,342.53,585.73
+317,Electronics,Vertex,Laptop,525.57,783.1
+318,Sports,Prime,Tennis Racket,52.22,103.92
+319,Clothing,Pioneer,Hat,7.1,10.44
+320,Electronics,Atlas,Mouse,550.2,687.75
+321,Sports,Pioneer,Tennis Racket,31.34,57.98
+322,Sports,Atlas,Yoga Mat,650.84,1060.87
+323,Sports,Vertex,Yoga Mat,449.02,857.63
+324,Home,Fusion,Lamp,310.12,412.46
+325,Home,Fusion,Lamp,391.8,595.54
+326,Home,Nova,Vacuum,108.17,187.13
+327,Home,Prime,Microwave,401.86,590.73
+328,Furniture,Pioneer,Standing Desk,308.64,441.36
+329,Sports,Nova,Tennis Racket,418.61,770.24
+330,Sports,Prime,Yoga Mat,565.87,718.65
+331,Clothing,Pioneer,Jacket,618.98,1318.43
+332,Furniture,Fusion,Desk,153.97,194.0
+333,Sports,Prime,Football,78.46,129.46
+334,Furniture,Apex,Desk,443.42,855.8
+335,Electronics,Prime,Phone,168.47,328.52
+336,Sports,Prime,Tennis Racket,361.5,632.62
+337,Sports,Nova,Yoga Mat,631.08,1382.07
+338,Home,Pioneer,Vacuum,513.01,918.29
+339,Sports,Prime,Bicycle,649.82,1143.68
+340,Electronics,Vertex,Headphones,626.44,958.45
+341,Furniture,Apex,Desk,318.65,691.47
+342,Sports,Fusion,Tennis Racket,517.52,755.58
+343,Sports,Vertex,Bicycle,309.18,374.11
+344,Electronics,Fusion,Laptop,185.35,231.69
+345,Clothing,Vertex,Sneakers,468.28,988.07
+346,Furniture,Fusion,Bookshelf,396.58,606.77
+347,Electronics,Fusion,Phone,654.23,1151.44
+348,Sports,Fusion,Bicycle,555.07,1032.43
+349,Sports,Fusion,Tennis Racket,109.55,219.1
+350,Sports,Nova,Yoga Mat,466.89,588.28
+351,Sports,Prime,Bicycle,164.39,218.64
+352,Electronics,Fusion,Headphones,83.18,138.91
+353,Sports,Prime,Football,128.04,193.34
+354,Sports,Apex,Tennis Racket,160.77,321.54
+355,Electronics,Pioneer,Camera,408.82,874.87
+356,Home,Atlas,Coffee Maker,208.53,260.66
+357,Home,Atlas,Blender,585.39,942.48
+358,Furniture,Apex,Standing Desk,655.21,1094.2
+359,Home,Nova,Lamp,222.11,282.08
+360,Furniture,Vertex,Cabinet,239.92,388.67
+361,Clothing,Fusion,Hat,533.23,1125.12
+362,Clothing,Atlas,Hat,384.96,461.95
+363,Furniture,Atlas,Standing Desk,376.56,674.04
+364,Furniture,Apex,Cabinet,33.56,56.38
+365,Home,Atlas,Microwave,110.18,252.31
+366,Home,Atlas,Lamp,405.15,676.6
+367,Electronics,Prime,Phone,213.43,307.34
+368,Electronics,Atlas,Monitor,253.63,514.87
+369,Furniture,Vertex,Chair,501.74,662.3
+370,Home,Vertex,Microwave,626.64,990.09
+371,Electronics,Fusion,Keyboard,228.25,401.72
+372,Clothing,Apex,T-Shirt,637.46,1019.94
+373,Clothing,Nova,Sneakers,105.53,141.41
+374,Home,Pioneer,Blender,456.95,987.01
+375,Clothing,Fusion,Jeans,24.64,44.84
+376,Electronics,Pioneer,Camera,530.15,917.16
+377,Electronics,Atlas,Tablet,491.64,909.53
+378,Sports,Pioneer,Basketball,384.96,866.16
+379,Electronics,Nova,Headphones,325.9,589.88
+380,Clothing,Prime,T-Shirt,312.78,519.21
+381,Electronics,Fusion,Monitor,588.62,1106.61
+382,Home,Atlas,Blender,384.41,722.69
+383,Sports,Pioneer,Football,490.72,902.92
+384,Sports,Fusion,Tennis Racket,311.04,690.51
+385,Sports,Apex,Bicycle,483.64,1039.83
+386,Clothing,Pioneer,Hat,186.55,287.29
+387,Electronics,Atlas,Phone,91.26,123.2
+388,Furniture,Apex,Desk,592.15,1219.83
+389,Furniture,Nova,Bookshelf,622.96,778.7
+390,Electronics,Nova,Camera,59.63,116.28
+391,Furniture,Prime,Cabinet,378.78,776.5
+392,Home,Pioneer,Coffee Maker,297.77,437.72
+393,Furniture,Apex,Desk,362.69,540.41
+394,Sports,Nova,Basketball,268.39,324.75
+395,Sports,Atlas,Tennis Racket,214.29,289.29
+396,Sports,Fusion,Bicycle,129.35,196.61
+397,Home,Atlas,Blender,550.93,1107.37
+398,Sports,Apex,Yoga Mat,304.78,502.89
+399,Home,Apex,Blender,117.47,246.69
+400,Clothing,Fusion,Sneakers,606.3,1054.96
+401,Clothing,Prime,Hat,625.26,1144.23
+402,Clothing,Atlas,Jeans,675.51,952.47
+403,Sports,Prime,Basketball,300.48,441.71
+404,Clothing,Prime,Jeans,560.26,1210.16
+405,Furniture,Apex,Chair,540.45,848.51
+406,Electronics,Atlas,Phone,280.56,440.48
+407,Clothing,Pioneer,Jacket,648.12,784.23
+408,Home,Vertex,Coffee Maker,599.62,797.49
+409,Clothing,Fusion,Jacket,674.48,1402.92
+410,Home,Apex,Microwave,220.88,298.19
+411,Sports,Vertex,Basketball,276.15,361.76
+412,Clothing,Prime,T-Shirt,69.15,152.13
+413,Sports,Fusion,Bicycle,375.72,665.02
+414,Electronics,Nova,Laptop,533.54,1216.47
+415,Electronics,Fusion,Camera,414.22,944.42
+416,Home,Vertex,Lamp,93.86,202.74
+417,Sports,Prime,Tennis Racket,618.32,983.13
+418,Electronics,Fusion,Keyboard,315.05,721.46
+419,Clothing,Vertex,Jacket,448.82,749.53
+420,Electronics,Vertex,Tablet,42.16,75.04
+421,Home,Atlas,Blender,163.44,258.24
+422,Home,Prime,Lamp,38.43,69.56
+423,Furniture,Vertex,Standing Desk,688.46,1542.15
+424,Clothing,Prime,Jacket,90.77,164.29
+425,Furniture,Prime,Cabinet,230.39,340.98
+426,Clothing,Apex,T-Shirt,26.85,60.14
+427,Clothing,Pioneer,Jeans,203.22,347.51
+428,Furniture,Vertex,Chair,592.63,758.57
+429,Furniture,Apex,Chair,654.59,1492.47
+430,Sports,Fusion,Tennis Racket,536.92,1073.84
+431,Sports,Fusion,Basketball,318.27,697.01
+432,Furniture,Pioneer,Chair,466.83,891.65
+433,Furniture,Prime,Bookshelf,122.96,173.37
+434,Sports,Nova,Tennis Racket,268.76,373.58
+435,Home,Nova,Blender,501.38,962.65
+436,Electronics,Apex,Headphones,673.81,1421.74
+437,Clothing,Prime,Jacket,28.07,52.49
+438,Furniture,Vertex,Standing Desk,504.83,883.45
+439,Clothing,Vertex,Hat,626.19,976.86
+440,Clothing,Pioneer,T-Shirt,29.86,65.99
+441,Electronics,Fusion,Phone,502.03,823.33
+442,Sports,Fusion,Bicycle,362.36,460.2
+443,Clothing,Pioneer,Jacket,198.8,294.22
+444,Clothing,Atlas,Jeans,187.01,235.63
+445,Furniture,Fusion,Cabinet,615.91,1207.18
+446,Sports,Atlas,Tennis Racket,156.12,309.12
+447,Electronics,Prime,Laptop,451.04,866.0
+448,Clothing,Atlas,Jacket,452.34,606.14
+449,Home,Atlas,Lamp,361.18,534.55
+450,Home,Atlas,Lamp,399.69,667.48
+451,Sports,Prime,Tennis Racket,544.61,1181.8
+452,Sports,Fusion,Basketball,217.72,496.4
+453,Sports,Prime,Football,587.07,774.93
+454,Home,Prime,Coffee Maker,181.39,264.83
+455,Electronics,Vertex,Headphones,498.78,693.3
+456,Furniture,Vertex,Cabinet,455.84,843.3
+457,Sports,Vertex,Football,170.6,353.14
+458,Electronics,Vertex,Camera,25.91,57.26
+459,Sports,Atlas,Football,688.47,1218.59
+460,Electronics,Prime,Monitor,121.61,161.74
+461,Electronics,Nova,Laptop,133.65,185.77
+462,Electronics,Fusion,Phone,485.71,786.85
+463,Home,Prime,Vacuum,36.49,44.88
+464,Sports,Pioneer,Tennis Racket,644.09,1249.53
+465,Home,Apex,Vacuum,12.79,16.5
+466,Furniture,Nova,Standing Desk,271.68,353.18
+467,Furniture,Vertex,Cabinet,206.11,319.47
+468,Electronics,Prime,Laptop,551.39,827.09
+469,Sports,Prime,Football,140.52,216.4
+470,Sports,Nova,Bicycle,583.28,1207.39
+471,Electronics,Fusion,Monitor,514.67,1178.59
+472,Home,Apex,Coffee Maker,7.44,15.62
+473,Clothing,Apex,Hat,268.54,569.3
+474,Electronics,Pioneer,Laptop,307.96,699.07
+475,Home,Pioneer,Microwave,191.73,245.41
+476,Home,Nova,Blender,212.87,276.73
+477,Furniture,Apex,Standing Desk,6.1,10.31
+478,Electronics,Atlas,Headphones,431.81,954.3
+479,Clothing,Nova,Hat,331.26,589.64
+480,Clothing,Atlas,Hat,533.35,890.69
+481,Furniture,Pioneer,Standing Desk,390.0,631.8
+482,Sports,Atlas,Tennis Racket,437.17,603.29
+483,Home,Atlas,Vacuum,371.93,665.75
+484,Sports,Fusion,Tennis Racket,628.91,1144.62
+485,Sports,Nova,Yoga Mat,548.2,701.7
+486,Clothing,Prime,Hat,302.98,484.77
+487,Electronics,Atlas,Camera,628.27,772.77
+488,Furniture,Fusion,Chair,20.48,26.62
+489,Clothing,Atlas,Sneakers,595.24,1125.0
+490,Sports,Nova,Football,269.2,411.88
+491,Sports,Atlas,Basketball,533.93,1217.36
+492,Clothing,Apex,Jacket,658.82,1357.17
+493,Clothing,Fusion,Hat,223.48,502.83
+494,Home,Pioneer,Microwave,207.1,269.23
+495,Furniture,Prime,Bookshelf,211.27,392.96
+496,Electronics,Pioneer,Phone,381.56,793.64
+497,Sports,Atlas,Football,199.83,373.68
+498,Home,Vertex,Coffee Maker,307.84,427.9
+499,Sports,Fusion,Yoga Mat,237.32,439.04
+500,Electronics,Vertex,Keyboard,506.1,809.76
+501,Electronics,Prime,Mouse,478.31,770.08
+502,Electronics,Nova,Mouse,307.41,541.04
+503,Sports,Fusion,Football,92.8,200.45
+504,Electronics,Pioneer,Laptop,656.98,821.23
+505,Home,Fusion,Coffee Maker,648.11,1419.36
+506,Clothing,Vertex,T-Shirt,324.25,463.68
+507,Clothing,Atlas,Sneakers,694.36,1215.13
+508,Sports,Apex,Bicycle,621.76,1349.22
+509,Electronics,Prime,Laptop,66.83,118.29
+510,Sports,Fusion,Football,116.84,174.09
+511,Furniture,Fusion,Desk,99.69,165.49
+512,Sports,Prime,Bicycle,9.34,11.86
+513,Clothing,Nova,Hat,450.83,915.18
+514,Electronics,Atlas,Phone,404.18,917.49
+515,Furniture,Prime,Bookshelf,620.71,819.34
+516,Electronics,Nova,Mouse,134.22,173.14
+517,Clothing,Fusion,Jacket,663.17,1425.82
+518,Electronics,Nova,Tablet,143.73,178.23
+519,Home,Fusion,Lamp,223.17,272.27
+520,Clothing,Apex,T-Shirt,614.69,1124.88
+521,Sports,Pioneer,Bicycle,490.89,711.79
+522,Furniture,Atlas,Cabinet,367.72,606.74
+523,Sports,Vertex,Football,606.32,1000.43
+524,Sports,Nova,Bicycle,198.92,342.14
+525,Home,Atlas,Vacuum,671.74,1390.5
+526,Furniture,Atlas,Bookshelf,145.52,224.1
+527,Electronics,Nova,Monitor,631.68,1263.36
+528,Electronics,Prime,Keyboard,235.94,323.24
+529,Sports,Nova,Tennis Racket,285.28,556.3
+530,Home,Prime,Blender,153.27,332.6
+531,Clothing,Prime,Sneakers,182.94,373.2
+532,Furniture,Atlas,Standing Desk,610.59,836.51
+533,Electronics,Fusion,Headphones,604.12,1377.39
+534,Electronics,Vertex,Headphones,316.22,585.01
+535,Clothing,Atlas,Jeans,652.01,1141.02
+536,Clothing,Prime,Jacket,225.95,327.63
+537,Clothing,Apex,Sneakers,640.93,1147.26
+538,Clothing,Apex,T-Shirt,314.63,531.72
+539,Electronics,Apex,Headphones,255.27,479.91
+540,Electronics,Atlas,Mouse,672.84,928.52
+541,Furniture,Apex,Desk,417.88,748.01
+542,Clothing,Apex,T-Shirt,34.54,65.28
+543,Electronics,Nova,Phone,623.19,816.38
+544,Electronics,Nova,Camera,546.34,1223.8
+545,Sports,Pioneer,Basketball,103.92,217.19
+546,Home,Vertex,Microwave,42.52,83.76
+547,Electronics,Vertex,Headphones,503.38,810.44
+548,Clothing,Vertex,Jeans,490.55,632.81
+549,Electronics,Apex,Phone,468.47,655.86
+550,Sports,Vertex,Bicycle,610.99,775.96
+551,Home,Vertex,Vacuum,59.86,79.02
+552,Furniture,Pioneer,Standing Desk,676.8,1299.46
+553,Sports,Apex,Bicycle,310.91,677.78
+554,Electronics,Fusion,Camera,201.35,453.04
+555,Electronics,Fusion,Camera,494.41,1053.09
+556,Sports,Pioneer,Tennis Racket,39.41,62.66
+557,Sports,Pioneer,Bicycle,452.52,995.54
+558,Electronics,Pioneer,Laptop,11.76,19.17
+559,Sports,Nova,Football,679.04,1392.03
+560,Furniture,Vertex,Cabinet,87.37,131.93
+561,Electronics,Pioneer,Monitor,302.74,532.82
+562,Clothing,Atlas,T-Shirt,55.05,84.23
+563,Electronics,Atlas,Monitor,693.39,1088.62
+564,Sports,Prime,Football,672.09,1075.34
+565,Furniture,Nova,Standing Desk,481.79,756.41
+566,Clothing,Fusion,Sneakers,54.11,68.72
+567,Sports,Atlas,Tennis Racket,14.07,17.17
+568,Home,Pioneer,Lamp,45.86,82.55
+569,Home,Vertex,Microwave,187.62,386.5
+570,Home,Pioneer,Lamp,190.6,371.67
+571,Furniture,Atlas,Chair,401.34,610.04
+572,Clothing,Fusion,Jacket,19.26,31.39
+573,Home,Vertex,Coffee Maker,237.25,287.07
+574,Clothing,Fusion,T-Shirt,55.65,79.58
+575,Clothing,Apex,Jeans,95.36,155.44
+576,Electronics,Nova,Camera,378.38,529.73
+577,Furniture,Prime,Cabinet,493.21,670.77
+578,Furniture,Nova,Standing Desk,235.07,305.59
+579,Electronics,Prime,Laptop,451.99,985.34
+580,Electronics,Atlas,Mouse,174.78,332.08
+581,Sports,Vertex,Yoga Mat,359.75,528.83
+582,Electronics,Prime,Phone,271.9,459.51
+583,Furniture,Pioneer,Cabinet,649.63,980.94
+584,Clothing,Atlas,Sneakers,237.19,512.33
+585,Sports,Prime,Tennis Racket,318.55,681.7
+586,Furniture,Prime,Desk,123.84,248.92
+587,Home,Prime,Blender,121.4,151.75
+588,Furniture,Prime,Bookshelf,471.37,1022.87
+589,Electronics,Vertex,Tablet,323.01,513.59
+590,Electronics,Nova,Keyboard,326.05,557.55
+591,Sports,Nova,Football,5.76,9.73
+592,Clothing,Nova,Jacket,161.83,328.51
+593,Furniture,Nova,Chair,304.86,685.94
+594,Sports,Atlas,Football,51.93,114.25
+595,Electronics,Atlas,Camera,507.34,994.39
+596,Electronics,Fusion,Headphones,78.96,104.23
+597,Furniture,Nova,Cabinet,263.14,476.28
+598,Sports,Fusion,Bicycle,400.44,684.75
+599,Furniture,Pioneer,Desk,270.3,478.43
+600,Electronics,Prime,Mouse,642.43,1111.4
+601,Sports,Atlas,Football,51.68,117.83
+602,Furniture,Vertex,Cabinet,636.49,1101.13
+603,Sports,Prime,Bicycle,235.53,511.1
+604,Electronics,Pioneer,Phone,696.82,940.71
+605,Home,Vertex,Coffee Maker,5.85,8.19
+606,Sports,Prime,Bicycle,377.97,714.36
+607,Furniture,Apex,Chair,465.43,637.64
+608,Electronics,Pioneer,Keyboard,198.73,455.09
+609,Furniture,Pioneer,Chair,647.57,1392.28
+610,Electronics,Apex,Phone,297.91,670.3
+611,Sports,Pioneer,Tennis Racket,498.83,982.7
+612,Furniture,Nova,Desk,93.67,177.97
+613,Clothing,Pioneer,Jacket,157.22,210.67
+614,Home,Pioneer,Microwave,254.63,565.28
+615,Electronics,Prime,Monitor,264.19,372.51
+616,Furniture,Nova,Cabinet,70.01,109.92
+617,Home,Prime,Blender,280.13,336.16
+618,Electronics,Prime,Mouse,502.1,928.89
+619,Home,Atlas,Microwave,324.42,532.05
+620,Electronics,Nova,Monitor,96.75,123.84
+621,Furniture,Prime,Cabinet,67.31,131.25
+622,Electronics,Nova,Camera,212.48,456.83
+623,Furniture,Nova,Cabinet,525.61,935.59
+624,Electronics,Atlas,Keyboard,177.32,400.74
+625,Clothing,Vertex,T-Shirt,435.96,710.61
+626,Sports,Nova,Basketball,562.01,798.05
+627,Home,Fusion,Microwave,14.72,18.55
+628,Sports,Fusion,Bicycle,678.34,1126.04
+629,Home,Vertex,Vacuum,271.3,534.46
+630,Electronics,Atlas,Headphones,256.63,325.92
+631,Clothing,Fusion,Jeans,213.85,265.17
+632,Home,Vertex,Coffee Maker,480.98,899.43
+633,Furniture,Pioneer,Cabinet,294.7,356.59
+634,Sports,Prime,Yoga Mat,121.26,170.98
+635,Furniture,Nova,Bookshelf,98.61,213.98
+636,Electronics,Prime,Keyboard,678.22,1003.77
+637,Home,Pioneer,Coffee Maker,644.15,1294.74
+638,Sports,Pioneer,Bicycle,190.26,260.66
+639,Sports,Atlas,Tennis Racket,447.18,1006.15
+640,Home,Pioneer,Lamp,665.51,1251.16
+641,Sports,Apex,Yoga Mat,107.53,156.99
+642,Electronics,Apex,Headphones,188.25,267.31
+643,Furniture,Apex,Chair,505.51,1142.45
+644,Home,Apex,Coffee Maker,622.83,1202.06
+645,Sports,Vertex,Football,161.31,240.35
+646,Electronics,Apex,Monitor,58.9,116.62
+647,Sports,Pioneer,Yoga Mat,286.94,461.97
+648,Clothing,Fusion,Jeans,605.18,1246.67
+649,Sports,Fusion,Bicycle,352.07,732.31
+650,Sports,Pioneer,Bicycle,506.61,1134.81
+651,Clothing,Apex,Jacket,255.54,373.09
+652,Sports,Fusion,Yoga Mat,693.83,1040.75
+653,Sports,Fusion,Tennis Racket,270.7,565.76
+654,Furniture,Apex,Standing Desk,92.9,129.13
+655,Clothing,Atlas,T-Shirt,377.16,829.75
+656,Clothing,Nova,Hat,642.36,989.23
+657,Clothing,Apex,Jacket,533.49,992.29
+658,Clothing,Fusion,Hat,269.99,413.08
+659,Furniture,Fusion,Desk,598.15,873.3
+660,Clothing,Atlas,Jacket,171.52,351.62
+661,Electronics,Prime,Keyboard,131.21,174.51
+662,Clothing,Pioneer,T-Shirt,698.4,1571.4
+663,Sports,Vertex,Tennis Racket,140.81,291.48
+664,Home,Apex,Vacuum,214.19,331.99
+665,Furniture,Pioneer,Desk,319.7,527.5
+666,Home,Nova,Coffee Maker,77.45,170.39
+667,Electronics,Apex,Phone,349.5,622.11
+668,Furniture,Pioneer,Chair,652.69,841.97
+669,Sports,Apex,Yoga Mat,69.2,154.32
+670,Clothing,Pioneer,Jacket,150.34,315.71
+671,Clothing,Prime,Jacket,305.9,672.98
+672,Home,Pioneer,Blender,190.61,371.69
+673,Home,Vertex,Vacuum,83.14,117.23
+674,Electronics,Prime,Headphones,558.66,1206.71
+675,Furniture,Vertex,Chair,633.93,1084.02
+676,Sports,Vertex,Yoga Mat,283.21,441.81
+677,Furniture,Nova,Bookshelf,7.37,11.13
+678,Electronics,Atlas,Mouse,571.63,1200.42
+679,Electronics,Pioneer,Laptop,649.66,1039.46
+680,Sports,Fusion,Basketball,30.27,66.9
+681,Furniture,Fusion,Chair,50.67,70.94
+682,Furniture,Vertex,Desk,300.67,559.25
+683,Sports,Fusion,Basketball,539.62,777.05
+684,Sports,Nova,Basketball,348.59,481.05
+685,Furniture,Apex,Desk,142.69,268.26
+686,Furniture,Pioneer,Cabinet,544.02,756.19
+687,Electronics,Fusion,Tablet,405.05,765.54
+688,Furniture,Atlas,Standing Desk,93.84,151.08
+689,Clothing,Vertex,Jacket,637.13,866.5
+690,Home,Atlas,Coffee Maker,491.02,692.34
+691,Sports,Prime,Tennis Racket,126.14,191.73
+692,Home,Vertex,Coffee Maker,548.39,795.17
+693,Home,Nova,Microwave,65.54,104.21
+694,Home,Fusion,Microwave,68.69,85.86
+695,Electronics,Nova,Tablet,275.42,481.99
+696,Sports,Nova,Football,581.69,826.0
+697,Electronics,Nova,Laptop,346.52,474.73
+698,Clothing,Pioneer,Hat,159.47,360.4
+699,Sports,Fusion,Football,495.73,1120.35
+700,Home,Fusion,Blender,376.22,556.81
+701,Home,Vertex,Coffee Maker,230.4,467.71
+702,Furniture,Pioneer,Chair,685.88,1550.09
+703,Furniture,Atlas,Chair,666.84,1473.72
+704,Electronics,Vertex,Phone,529.3,804.54
+705,Clothing,Atlas,Hat,693.32,1483.7
+706,Furniture,Fusion,Chair,129.15,290.59
+707,Electronics,Apex,Headphones,132.21,288.22
+708,Furniture,Vertex,Standing Desk,460.98,1009.55
+709,Home,Atlas,Coffee Maker,51.34,98.06
+710,Electronics,Apex,Keyboard,280.79,581.24
+711,Electronics,Vertex,Monitor,9.39,18.22
+712,Sports,Apex,Bicycle,541.66,1039.99
+713,Furniture,Prime,Desk,622.49,796.79
+714,Home,Prime,Coffee Maker,283.9,357.71
+715,Clothing,Fusion,Sneakers,164.32,346.72
+716,Clothing,Prime,Sneakers,48.96,97.92
+717,Home,Nova,Vacuum,256.26,379.26
+718,Furniture,Pioneer,Desk,260.96,435.8
+719,Clothing,Pioneer,T-Shirt,58.86,120.07
+720,Clothing,Pioneer,Jeans,302.64,369.22
+721,Electronics,Apex,Headphones,416.74,595.94
+722,Home,Nova,Lamp,350.17,731.86
+723,Home,Vertex,Vacuum,568.79,693.92
+724,Home,Prime,Coffee Maker,468.33,599.46
+725,Home,Vertex,Vacuum,99.49,192.02
+726,Clothing,Prime,T-Shirt,658.86,1205.71
+727,Home,Pioneer,Lamp,285.46,510.97
+728,Home,Fusion,Microwave,30.25,68.06
+729,Furniture,Fusion,Desk,119.66,208.21
+730,Furniture,Vertex,Desk,559.53,1275.73
+731,Furniture,Nova,Bookshelf,458.16,888.83
+732,Home,Atlas,Blender,488.34,1103.65
+733,Sports,Vertex,Yoga Mat,455.88,756.76
+734,Furniture,Apex,Cabinet,630.58,1242.24
+735,Furniture,Fusion,Desk,423.82,801.02
+736,Clothing,Pioneer,Jeans,135.92,305.82
+737,Sports,Nova,Bicycle,131.27,175.9
+738,Furniture,Nova,Desk,412.33,655.6
+739,Clothing,Apex,Sneakers,566.25,849.38
+740,Sports,Nova,Yoga Mat,560.68,846.63
+741,Electronics,Fusion,Laptop,102.49,231.63
+742,Home,Fusion,Blender,219.88,424.37
+743,Home,Fusion,Microwave,211.93,358.16
+744,Clothing,Apex,T-Shirt,296.75,421.38
+745,Home,Nova,Vacuum,183.57,286.37
+746,Home,Fusion,Coffee Maker,250.34,493.17
+747,Furniture,Apex,Desk,414.26,671.1
+748,Sports,Fusion,Yoga Mat,433.44,979.57
+749,Electronics,Apex,Phone,618.5,1125.67
+750,Furniture,Vertex,Cabinet,488.68,708.59
+751,Electronics,Vertex,Mouse,417.53,830.88
+752,Clothing,Fusion,Jeans,81.53,145.12
+753,Home,Nova,Coffee Maker,301.46,440.13
+754,Clothing,Prime,Hat,206.54,367.64
+755,Sports,Apex,Tennis Racket,535.6,1001.57
+756,Clothing,Apex,Sneakers,461.93,679.04
+757,Clothing,Apex,Jeans,523.0,805.42
+758,Electronics,Atlas,Keyboard,430.33,705.74
+759,Sports,Pioneer,Football,528.32,776.63
+760,Clothing,Atlas,Jeans,406.93,614.46
+761,Clothing,Pioneer,Sneakers,188.34,335.25
+762,Sports,Apex,Football,106.54,133.18
+763,Sports,Pioneer,Yoga Mat,94.17,188.34
+764,Furniture,Prime,Cabinet,469.96,841.23
+765,Sports,Vertex,Tennis Racket,601.4,902.1
+766,Furniture,Prime,Desk,677.3,1557.79
+767,Sports,Nova,Yoga Mat,94.72,185.65
+768,Home,Prime,Vacuum,337.86,516.93
+769,Sports,Prime,Bicycle,138.94,262.6
+770,Home,Vertex,Blender,238.99,497.1
+771,Furniture,Apex,Desk,174.88,218.6
+772,Sports,Nova,Yoga Mat,594.54,963.15
+773,Furniture,Nova,Cabinet,160.3,201.98
+774,Furniture,Vertex,Standing Desk,79.11,162.97
+775,Home,Atlas,Blender,601.64,1293.53
+776,Sports,Pioneer,Yoga Mat,137.27,252.58
+777,Home,Prime,Vacuum,390.99,652.95
+778,Electronics,Apex,Monitor,661.35,985.41
+779,Sports,Fusion,Bicycle,136.46,268.83
+780,Home,Atlas,Coffee Maker,63.83,92.55
+781,Sports,Vertex,Bicycle,38.4,54.91
+782,Furniture,Vertex,Bookshelf,114.51,222.15
+783,Electronics,Vertex,Monitor,140.46,238.78
+784,Clothing,Apex,Sneakers,149.5,197.34
+785,Furniture,Pioneer,Bookshelf,501.37,832.27
+786,Home,Prime,Lamp,582.68,722.52
+787,Clothing,Prime,Jacket,400.51,604.77
+788,Sports,Nova,Basketball,111.33,232.68
+789,Home,Apex,Microwave,623.04,791.26
+790,Furniture,Nova,Desk,214.96,457.86
+791,Furniture,Apex,Chair,377.91,782.27
+792,Electronics,Apex,Tablet,117.58,212.82
+793,Home,Apex,Microwave,240.15,405.85
+794,Furniture,Vertex,Chair,144.72,256.15
+795,Sports,Apex,Football,11.48,14.01
+796,Home,Nova,Lamp,694.1,999.5
+797,Furniture,Fusion,Desk,157.52,233.13
+798,Home,Fusion,Vacuum,515.17,690.33
+799,Home,Prime,Blender,653.31,790.51
+800,Home,Apex,Coffee Maker,544.25,1017.75
+801,Clothing,Apex,Jacket,629.56,793.25
+802,Clothing,Vertex,Jacket,43.95,98.45
+803,Furniture,Fusion,Cabinet,391.51,579.43
+804,Furniture,Prime,Chair,25.19,37.79
+805,Furniture,Nova,Desk,93.3,142.75
+806,Sports,Vertex,Basketball,68.15,135.62
+807,Furniture,Fusion,Standing Desk,41.22,66.36
+808,Home,Pioneer,Blender,464.08,835.34
+809,Electronics,Apex,Camera,451.32,884.59
+810,Clothing,Atlas,Sneakers,78.58,162.66
+811,Furniture,Atlas,Standing Desk,39.78,63.65
+812,Furniture,Prime,Cabinet,611.32,1027.02
+813,Home,Nova,Coffee Maker,240.94,520.43
+814,Furniture,Atlas,Chair,225.08,279.1
+815,Clothing,Pioneer,Sneakers,278.97,499.36
+816,Clothing,Vertex,Hat,508.67,691.79
+817,Home,Prime,Coffee Maker,440.9,749.53
+818,Electronics,Nova,Tablet,74.31,95.86
+819,Electronics,Pioneer,Camera,676.38,845.48
+820,Clothing,Atlas,Hat,294.07,649.89
+821,Electronics,Prime,Phone,320.82,401.02
+822,Home,Vertex,Blender,487.04,1013.04
+823,Sports,Atlas,Football,250.0,462.5
+824,Sports,Apex,Bicycle,487.64,682.7
+825,Electronics,Fusion,Camera,75.91,105.51
+826,Home,Vertex,Blender,178.59,323.25
+827,Furniture,Vertex,Desk,255.7,388.66
+828,Electronics,Pioneer,Headphones,127.42,248.47
+829,Clothing,Vertex,Hat,615.95,997.84
+830,Furniture,Vertex,Desk,486.19,1021.0
+831,Clothing,Prime,Jeans,214.92,464.23
+832,Electronics,Atlas,Keyboard,354.03,626.63
+833,Sports,Fusion,Tennis Racket,646.1,781.78
+834,Electronics,Pioneer,Tablet,12.18,19.61
+835,Home,Prime,Lamp,480.63,615.21
+836,Clothing,Apex,Jacket,552.68,934.03
+837,Sports,Vertex,Football,281.1,534.09
+838,Furniture,Apex,Cabinet,520.05,863.28
+839,Furniture,Prime,Bookshelf,645.29,1109.9
+840,Furniture,Nova,Chair,638.87,1162.74
+841,Home,Nova,Vacuum,620.65,980.63
+842,Furniture,Atlas,Cabinet,98.01,188.18
+843,Furniture,Apex,Chair,416.81,554.36
+844,Home,Apex,Coffee Maker,34.22,63.31
+845,Sports,Pioneer,Yoga Mat,166.65,244.98
+846,Furniture,Apex,Bookshelf,124.79,234.61
+847,Furniture,Pioneer,Desk,304.87,390.23
+848,Clothing,Atlas,Hat,362.49,692.36
+849,Clothing,Vertex,T-Shirt,140.2,280.4
+850,Sports,Prime,Basketball,35.31,64.62
+851,Furniture,Vertex,Chair,49.64,94.81
+852,Furniture,Nova,Desk,665.08,924.46
+853,Clothing,Nova,Jeans,360.4,792.88
+854,Clothing,Fusion,Hat,111.79,187.81
+855,Sports,Nova,Yoga Mat,694.05,1061.9
+856,Electronics,Atlas,Phone,373.93,557.16
+857,Electronics,Vertex,Headphones,219.97,338.75
+858,Electronics,Atlas,Laptop,557.26,780.16
+859,Home,Prime,Microwave,448.61,776.1
+860,Clothing,Fusion,Hat,232.47,467.26
+861,Home,Apex,Blender,662.28,1086.14
+862,Electronics,Pioneer,Headphones,508.33,732.0
+863,Furniture,Fusion,Desk,429.31,854.33
+864,Furniture,Apex,Chair,57.2,80.08
+865,Electronics,Atlas,Laptop,202.6,378.86
+866,Furniture,Atlas,Desk,200.58,347.0
+867,Sports,Fusion,Basketball,67.58,145.3
+868,Furniture,Atlas,Bookshelf,413.75,765.44
+869,Clothing,Vertex,Hat,485.01,635.36
+870,Sports,Nova,Football,82.07,147.73
+871,Furniture,Pioneer,Bookshelf,298.46,364.12
+872,Furniture,Vertex,Desk,48.36,76.41
+873,Furniture,Vertex,Cabinet,238.98,430.16
+874,Electronics,Prime,Laptop,228.63,285.79
+875,Furniture,Vertex,Standing Desk,174.77,311.09
+876,Sports,Vertex,Basketball,655.05,1185.64
+877,Home,Prime,Lamp,123.79,255.01
+878,Sports,Pioneer,Basketball,46.45,76.18
+879,Home,Vertex,Coffee Maker,576.73,1170.76
+880,Furniture,Vertex,Chair,591.47,1354.47
+881,Sports,Vertex,Tennis Racket,625.6,1213.66
+882,Furniture,Atlas,Bookshelf,288.22,582.2
+883,Clothing,Prime,T-Shirt,618.87,1398.65
+884,Home,Fusion,Coffee Maker,281.37,371.41
+885,Sports,Nova,Bicycle,675.77,892.02
+886,Furniture,Vertex,Chair,466.36,965.37
+887,Furniture,Prime,Cabinet,110.89,215.13
+888,Sports,Pioneer,Football,247.78,349.37
+889,Sports,Prime,Basketball,372.21,580.65
+890,Electronics,Fusion,Headphones,667.1,1154.08
+891,Electronics,Apex,Laptop,298.63,564.41
+892,Sports,Atlas,Football,9.36,20.5
+893,Sports,Vertex,Basketball,600.13,1254.27
+894,Electronics,Fusion,Tablet,329.63,557.07
+895,Electronics,Apex,Camera,643.16,1260.59
+896,Sports,Vertex,Yoga Mat,407.79,729.94
+897,Sports,Pioneer,Bicycle,248.21,434.37
+898,Electronics,Pioneer,Tablet,492.54,792.99
+899,Home,Prime,Lamp,272.21,378.37
+900,Clothing,Fusion,Hat,581.46,784.97
+901,Furniture,Vertex,Standing Desk,433.64,802.23
+902,Clothing,Fusion,Jeans,160.34,240.51
+903,Electronics,Atlas,Camera,518.03,1129.31
+904,Sports,Vertex,Basketball,314.31,594.05
+905,Sports,Apex,Yoga Mat,299.02,684.76
+906,Electronics,Nova,Camera,404.0,662.56
+907,Sports,Apex,Basketball,389.51,720.59
+908,Home,Prime,Blender,393.61,767.54
+909,Sports,Atlas,Bicycle,286.91,367.24
+910,Furniture,Nova,Cabinet,562.38,1197.87
+911,Home,Atlas,Microwave,173.56,367.95
+912,Clothing,Prime,Jacket,282.07,519.01
+913,Sports,Atlas,Basketball,698.08,1061.08
+914,Sports,Prime,Basketball,189.33,293.46
+915,Sports,Fusion,Football,465.7,824.29
+916,Electronics,Nova,Mouse,675.57,898.51
+917,Furniture,Fusion,Bookshelf,101.98,173.37
+918,Home,Nova,Blender,389.25,852.46
+919,Sports,Apex,Football,193.04,409.24
+920,Sports,Atlas,Basketball,540.27,648.32
+921,Sports,Nova,Tennis Racket,137.02,264.45
+922,Clothing,Atlas,Sneakers,217.06,455.83
+923,Furniture,Prime,Cabinet,418.53,719.87
+924,Electronics,Nova,Mouse,294.12,632.36
+925,Furniture,Nova,Bookshelf,552.87,1221.84
+926,Electronics,Fusion,Monitor,36.92,58.33
+927,Home,Atlas,Vacuum,416.56,899.77
+928,Clothing,Apex,Jacket,17.01,38.61
+929,Home,Atlas,Blender,72.48,108.0
+930,Furniture,Apex,Bookshelf,685.23,1322.49
+931,Home,Fusion,Microwave,400.79,701.38
+932,Electronics,Pioneer,Phone,373.92,516.01
+933,Electronics,Fusion,Laptop,83.53,169.57
+934,Clothing,Apex,T-Shirt,38.09,57.14
+935,Clothing,Nova,Jeans,96.41,178.36
+936,Home,Fusion,Microwave,195.61,309.06
+937,Sports,Apex,Yoga Mat,573.86,923.91
+938,Electronics,Nova,Headphones,103.53,213.27
+939,Clothing,Fusion,Jeans,429.84,722.13
+940,Furniture,Vertex,Standing Desk,653.05,1332.22
+941,Furniture,Vertex,Desk,428.25,668.07
+942,Clothing,Apex,Sneakers,556.22,823.21
+943,Home,Prime,Microwave,215.98,328.29
+944,Clothing,Apex,Jeans,420.11,781.4
+945,Furniture,Atlas,Desk,594.43,1248.3
+946,Furniture,Vertex,Standing Desk,9.24,19.5
+947,Clothing,Vertex,Jeans,511.41,736.43
+948,Sports,Vertex,Basketball,7.31,10.75
+949,Furniture,Pioneer,Desk,651.71,827.67
+950,Home,Pioneer,Coffee Maker,646.58,1228.5
+951,Home,Atlas,Microwave,114.15,234.01
+952,Sports,Pioneer,Football,434.15,785.81
+953,Clothing,Pioneer,Hat,230.68,322.95
+954,Clothing,Pioneer,Jacket,478.48,756.0
+955,Clothing,Apex,T-Shirt,287.23,654.88
+956,Home,Nova,Blender,432.39,730.74
+957,Clothing,Apex,T-Shirt,372.72,708.17
+958,Clothing,Apex,Hat,69.46,117.39
+959,Clothing,Vertex,Sneakers,165.07,264.11
+960,Clothing,Pioneer,Jacket,211.81,457.51
+961,Clothing,Nova,T-Shirt,584.12,1244.18
+962,Clothing,Atlas,Hat,213.69,446.61
+963,Home,Atlas,Coffee Maker,185.67,395.48
+964,Furniture,Atlas,Desk,236.69,411.84
+965,Electronics,Fusion,Monitor,140.69,250.43
+966,Electronics,Pioneer,Phone,483.42,705.79
+967,Sports,Nova,Tennis Racket,686.38,1146.25
+968,Sports,Prime,Yoga Mat,356.69,777.58
+969,Sports,Atlas,Basketball,250.08,347.61
+970,Home,Fusion,Coffee Maker,11.7,24.69
+971,Furniture,Nova,Standing Desk,480.57,740.08
+972,Home,Vertex,Blender,288.97,609.73
+973,Clothing,Atlas,Jacket,340.43,711.5
+974,Electronics,Apex,Phone,360.76,775.63
+975,Home,Fusion,Microwave,135.65,204.83
+976,Home,Fusion,Vacuum,515.98,872.01
+977,Furniture,Nova,Cabinet,567.31,1049.52
+978,Clothing,Atlas,Jacket,150.88,247.44
+979,Sports,Prime,Tennis Racket,183.58,295.56
+980,Home,Atlas,Blender,680.31,1074.89
+981,Sports,Nova,Tennis Racket,412.16,506.96
+982,Electronics,Fusion,Laptop,374.92,678.61
+983,Furniture,Prime,Cabinet,16.79,36.94
+984,Clothing,Atlas,Jacket,71.16,91.8
+985,Home,Pioneer,Lamp,206.9,314.49
+986,Clothing,Prime,Sneakers,197.47,440.36
+987,Sports,Prime,Bicycle,435.38,970.9
+988,Sports,Atlas,Yoga Mat,410.07,688.92
+989,Clothing,Apex,Sneakers,233.37,462.07
+990,Sports,Prime,Football,662.09,1337.42
+991,Sports,Pioneer,Basketball,129.51,165.77
+992,Sports,Pioneer,Yoga Mat,513.13,959.55
+993,Electronics,Pioneer,Tablet,212.97,381.22
+994,Sports,Apex,Yoga Mat,629.61,1076.63
+995,Sports,Apex,Tennis Racket,212.98,481.33
+996,Electronics,Fusion,Keyboard,557.39,797.07
+997,Furniture,Nova,Cabinet,696.47,1587.95
+998,Electronics,Vertex,Tablet,509.65,968.33
+999,Sports,Atlas,Tennis Racket,242.49,407.38
+1000,Electronics,Fusion,Phone,406.79,760.7

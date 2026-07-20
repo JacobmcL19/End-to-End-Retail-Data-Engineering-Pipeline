@@ -1,0 +1,8 @@
+Metric,Value
+Duplicate Orders,470.0
+Missing Customer IDs,1005.0
+Missing Sales,502.0
+Negative Quantities,302.0
+Future Dates,201.0
+Profit Outliers,7355.0
+Overall Quality Score,14.29

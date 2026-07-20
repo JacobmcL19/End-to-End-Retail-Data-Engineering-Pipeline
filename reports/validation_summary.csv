@@ -1,0 +1,8 @@
+Check,Issues
+Duplicate Orders,470
+Missing Customer IDs,1005
+Missing Sales,502
+Negative Quantity,302
+Future Dates,201
+Price < Cost,0
+Profit Outliers,7355

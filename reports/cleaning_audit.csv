@@ -1,0 +1,10 @@
+Step,Rows Before,Rows After,Rows Removed,Notes,Timestamp
+Remove Duplicate Customers,10000,10000,0,Duplicate customer records removed.,2026-07-19 19:44:27.461008
+Missing Customer IDs,10000,10000,0,Removed customers without IDs.,2026-07-19 19:44:27.490780
+Duplicate Products,1000,1000,0,Removed duplicate products.,2026-07-19 19:44:27.497439
+Price Validation,1000,1000,0,Removed products priced below cost.,2026-07-19 19:44:27.502972
+Duplicate Orders,100500,100030,470,Duplicate orders removed.,2026-07-19 19:44:27.547981
+Missing Customers,100030,99025,1005,Orders without customers removed.,2026-07-19 19:44:27.560398
+Missing Sales,99025,98529,496,Orders missing sales removed.,2026-07-19 19:44:27.573961
+Future Orders,98529,98328,201,Removed future-dated transactions.,2026-07-19 19:44:27.595425
+Profit Outliers,98328,91668,6660,Removed statistical outliers.,2026-07-19 19:44:27.629406

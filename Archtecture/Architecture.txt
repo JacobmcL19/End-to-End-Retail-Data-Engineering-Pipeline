@@ -1,0 +1,23 @@
+Retail Data Engineering Pipeline
+
+Synthetic Data (Faker)
+        ↓
+Validation
+        ↓
+Cleaning
+        ↓
+Feature Engineering
+        ↓
+Star Schema
+        ↓
+DuckDB Warehouse
+        ↓
+SQL Analytics
+        ↓
+Business KPIs
+        ↓
+Interactive Dashboard
+        ↓
+Data Quality Report
+        ↓
+Executive Summary

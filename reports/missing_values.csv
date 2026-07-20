@@ -1,0 +1,3 @@
+Dataset,Column,Missing,Percent
+Orders,CustomerID,1005,1.0
+Orders,Sales,502,0.5
