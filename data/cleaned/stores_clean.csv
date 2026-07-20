@@ -1,51 +1,51 @@
 StoreID,StoreName,City,State,Region,Manager,OpenDate
-1,Store 1,South Lauraside,South Dakota,West,William Castro,2021-12-15
-2,Store 2,East Stevenshire,Utah,Northeast,Renee Thomas,2012-11-08
-3,Store 3,Lake Aaron,New York,Midwest,Kristopher Henry,2020-02-12
-4,Store 4,Nealmouth,South Carolina,Midwest,Michael Garcia,2016-01-30
-5,Store 5,Richardhaven,Kentucky,West,Danielle Weaver,2014-08-05
-6,Store 6,Michellebury,North Carolina,Northeast,Erin Thompson,2016-12-08
-7,Store 7,North Christopherside,Montana,Northeast,Misty Reynolds,2014-07-01
-8,Store 8,Quinnfurt,Missouri,West,Maxwell Knapp,2019-09-30
-9,Store 9,Amandastad,South Dakota,West,Thomas Curry,2019-02-14
-10,Store 10,Jacobside,Montana,Southeast,Kevin Cunningham,2019-10-21
-11,Store 11,North Samanthafort,Pennsylvania,Northeast,Matthew Russell,2014-01-08
-12,Store 12,West Jeromebury,Pennsylvania,Southwest,Ryan Swanson,2020-10-23
-13,Store 13,South Josephton,Nebraska,Southwest,Heather Massey,2024-07-15
-14,Store 14,New Amandaberg,Delaware,West,Rachel Crawford,2024-07-31
-15,Store 15,South Lisafurt,Vermont,Northeast,Peter Mccann,2015-02-10
-16,Store 16,Thompsonhaven,New York,Midwest,Oscar Jones,2017-12-02
-17,Store 17,East Kaylachester,California,Midwest,Julie Wilkins,2019-12-13
-18,Store 18,Michellehaven,Maine,Southeast,Jeremy Lucas,2019-11-12
-19,Store 19,Daybury,Arizona,West,Virginia Allen,2025-07-08
-20,Store 20,North Danny,Kansas,Southwest,Dennis Sherman,2013-08-24
-21,Store 21,Davidstad,Oregon,Southwest,Ronald Wagner,2020-06-21
-22,Store 22,Wanghaven,Delaware,West,Brandi Mcgrath,2014-03-30
-23,Store 23,New Deborah,North Dakota,Southeast,Cody Garcia,2017-12-21
-24,Store 24,East Timothyburgh,Georgia,Southeast,Zachary Wiggins,2014-02-28
-25,Store 25,New Stevenmouth,Montana,Midwest,Evan Jackson,2023-08-25
-26,Store 26,Port Casey,Vermont,Northeast,Dawn Sherman,2018-10-20
-27,Store 27,Maldonadoton,Tennessee,Midwest,William Oliver,2016-05-23
-28,Store 28,Millerbury,Nebraska,West,Fernando Martinez,2018-02-09
-29,Store 29,East Heatherfort,West Virginia,West,Marc Dixon,2012-02-25
-30,Store 30,Davidburgh,Indiana,Northeast,Sara Adams,2025-02-14
-31,Store 31,Cohenberg,Arizona,Southwest,Christina Heath,2021-09-08
-32,Store 32,North Keithport,Wisconsin,Northeast,Kelly Parker,2016-04-14
-33,Store 33,West Christinefurt,Rhode Island,Midwest,Albert Flores,2022-03-19
-34,Store 34,New Tina,Alabama,Southeast,Cynthia Stein,2017-08-05
-35,Store 35,Port Dakota,Alabama,Southeast,Jay Sharp,2020-03-07
-36,Store 36,West Johnmouth,Iowa,Southwest,Alan Phillips,2018-06-10
-37,Store 37,West Tannerbury,Florida,Northeast,Lisa Davis,2024-08-04
-38,Store 38,Ochoahaven,Arkansas,Northeast,Marissa Roberts,2016-03-12
-39,Store 39,Marcushaven,South Dakota,Northeast,Tiffany Flores,2014-03-13
-40,Store 40,Port Austin,Missouri,West,Herbert Marsh,2021-11-03
-41,Store 41,Port James,Pennsylvania,Southeast,Scott Howard,2014-11-29
-42,Store 42,Port Danielbury,Pennsylvania,West,Cody Davis DDS,2013-09-21
-43,Store 43,Martinezbury,California,Northeast,Michael Archer,2022-10-29
-44,Store 44,West Sara,Wisconsin,Northeast,Jacob Romero,2018-02-07
-45,Store 45,South Kennethstad,Maine,Southeast,Robert Nash,2013-05-24
-46,Store 46,North Michaelchester,Kansas,West,Sarah Smith,2022-11-06
-47,Store 47,Jasonton,Pennsylvania,Southeast,Jamie Smith,2017-09-27
-48,Store 48,Kellyborough,West Virginia,West,Sherri Mcbride,2022-03-28
-49,Store 49,Philipland,Kansas,Southwest,Stephanie Sellers,2013-04-09
-50,Store 50,South Carriehaven,New Jersey,Midwest,Matthew Collins,2023-10-03
+1,Store 1,South Lauraside,South Dakota,West,William Castro,2021-12-16
+2,Store 2,East Stevenshire,Utah,Northeast,Renee Thomas,2012-11-09
+3,Store 3,Lake Aaron,New York,Midwest,Kristopher Henry,2020-02-13
+4,Store 4,Nealmouth,South Carolina,Midwest,Michael Garcia,2016-01-31
+5,Store 5,Richardhaven,Kentucky,West,Danielle Weaver,2014-08-06
+6,Store 6,Michellebury,North Carolina,Northeast,Erin Thompson,2016-12-09
+7,Store 7,North Christopherside,Montana,Northeast,Misty Reynolds,2014-07-02
+8,Store 8,Quinnfurt,Missouri,West,Maxwell Knapp,2019-10-01
+9,Store 9,Amandastad,South Dakota,West,Thomas Curry,2019-02-15
+10,Store 10,Jacobside,Montana,Southeast,Kevin Cunningham,2019-10-22
+11,Store 11,North Samanthafort,Pennsylvania,Northeast,Matthew Russell,2014-01-09
+12,Store 12,West Jeromebury,Pennsylvania,Southwest,Ryan Swanson,2020-10-24
+13,Store 13,South Josephton,Nebraska,Southwest,Heather Massey,2024-07-16
+14,Store 14,New Amandaberg,Delaware,West,Rachel Crawford,2024-08-01
+15,Store 15,South Lisafurt,Vermont,Northeast,Peter Mccann,2015-02-11
+16,Store 16,Thompsonhaven,New York,Midwest,Oscar Jones,2017-12-03
+17,Store 17,East Kaylachester,California,Midwest,Julie Wilkins,2019-12-14
+18,Store 18,Michellehaven,Maine,Southeast,Jeremy Lucas,2019-11-13
+19,Store 19,Daybury,Arizona,West,Virginia Allen,2025-07-09
+20,Store 20,North Danny,Kansas,Southwest,Dennis Sherman,2013-08-25
+21,Store 21,Davidstad,Oregon,Southwest,Ronald Wagner,2020-06-22
+22,Store 22,Wanghaven,Delaware,West,Brandi Mcgrath,2014-03-31
+23,Store 23,New Deborah,North Dakota,Southeast,Cody Garcia,2017-12-22
+24,Store 24,East Timothyburgh,Georgia,Southeast,Zachary Wiggins,2014-03-01
+25,Store 25,New Stevenmouth,Montana,Midwest,Evan Jackson,2023-08-26
+26,Store 26,Port Casey,Vermont,Northeast,Dawn Sherman,2018-10-21
+27,Store 27,Maldonadoton,Tennessee,Midwest,William Oliver,2016-05-24
+28,Store 28,Millerbury,Nebraska,West,Fernando Martinez,2018-02-10
+29,Store 29,East Heatherfort,West Virginia,West,Marc Dixon,2012-02-26
+30,Store 30,Davidburgh,Indiana,Northeast,Sara Adams,2025-02-15
+31,Store 31,Cohenberg,Arizona,Southwest,Christina Heath,2021-09-09
+32,Store 32,North Keithport,Wisconsin,Northeast,Kelly Parker,2016-04-15
+33,Store 33,West Christinefurt,Rhode Island,Midwest,Albert Flores,2022-03-20
+34,Store 34,New Tina,Alabama,Southeast,Cynthia Stein,2017-08-06
+35,Store 35,Port Dakota,Alabama,Southeast,Jay Sharp,2020-03-08
+36,Store 36,West Johnmouth,Iowa,Southwest,Alan Phillips,2018-06-11
+37,Store 37,West Tannerbury,Florida,Northeast,Lisa Davis,2024-08-05
+38,Store 38,Ochoahaven,Arkansas,Northeast,Marissa Roberts,2016-03-13
+39,Store 39,Marcushaven,South Dakota,Northeast,Tiffany Flores,2014-03-14
+40,Store 40,Port Austin,Missouri,West,Herbert Marsh,2021-11-04
+41,Store 41,Port James,Pennsylvania,Southeast,Scott Howard,2014-11-30
+42,Store 42,Port Danielbury,Pennsylvania,West,Cody Davis DDS,2013-09-22
+43,Store 43,Martinezbury,California,Northeast,Michael Archer,2022-10-30
+44,Store 44,West Sara,Wisconsin,Northeast,Jacob Romero,2018-02-08
+45,Store 45,South Kennethstad,Maine,Southeast,Robert Nash,2013-05-25
+46,Store 46,North Michaelchester,Kansas,West,Sarah Smith,2022-11-07
+47,Store 47,Jasonton,Pennsylvania,Southeast,Jamie Smith,2017-09-28
+48,Store 48,Kellyborough,West Virginia,West,Sherri Mcbride,2022-03-29
+49,Store 49,Philipland,Kansas,Southwest,Stephanie Sellers,2013-04-10
+50,Store 50,South Carriehaven,New Jersey,Midwest,Matthew Collins,2023-10-04

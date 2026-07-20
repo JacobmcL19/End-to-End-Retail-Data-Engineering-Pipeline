@@ -1,51 +1,51 @@
 StoreID,StoreName,City,State,Region,Manager,OpenDate,Revenue,Profit,Orders
-1,Store 1,South Lauraside,South Dakota,West,William Castro,2021-12-15,3382798.55,1259283.82,1852
-2,Store 2,East Stevenshire,Utah,Northeast,Renee Thomas,2012-11-08,3176555.19,1198949.15,1768
-3,Store 3,Lake Aaron,New York,Midwest,Kristopher Henry,2020-02-12,3307124.08,1250086.34,1806
-4,Store 4,Nealmouth,South Carolina,Midwest,Michael Garcia,2016-01-30,3412609.71,1268718.92,1847
-5,Store 5,Richardhaven,Kentucky,West,Danielle Weaver,2014-08-05,3329120.95,1243775.07,1831
-6,Store 6,Michellebury,North Carolina,Northeast,Erin Thompson,2016-12-08,3395342.83,1264731.42,1824
-7,Store 7,North Christopherside,Montana,Northeast,Misty Reynolds,2014-07-01,3526650.59,1324776.21,1883
-8,Store 8,Quinnfurt,Missouri,West,Maxwell Knapp,2019-09-30,3333724.92,1242462.38,1804
-9,Store 9,Amandastad,South Dakota,West,Thomas Curry,2019-02-14,3490916.81,1328756.84,1898
-10,Store 10,Jacobside,Montana,Southeast,Kevin Cunningham,2019-10-21,3466948.99,1299891.91,1823
-11,Store 11,North Samanthafort,Pennsylvania,Northeast,Matthew Russell,2014-01-08,3314668.59,1217277.27,1834
-12,Store 12,West Jeromebury,Pennsylvania,Southwest,Ryan Swanson,2020-10-23,3371154.18,1270738.92,1865
-13,Store 13,South Josephton,Nebraska,Southwest,Heather Massey,2024-07-15,3259355.6,1231804.11,1776
-14,Store 14,New Amandaberg,Delaware,West,Rachel Crawford,2024-07-31,3253202.52,1231311.23,1773
-15,Store 15,South Lisafurt,Vermont,Northeast,Peter Mccann,2015-02-10,3376252.1,1259214.3,1896
-16,Store 16,Thompsonhaven,New York,Midwest,Oscar Jones,2017-12-02,3340077.95,1253858.0,1774
-17,Store 17,East Kaylachester,California,Midwest,Julie Wilkins,2019-12-13,3207523.96,1197580.08,1821
-18,Store 18,Michellehaven,Maine,Southeast,Jeremy Lucas,2019-11-12,3436600.66,1287702.93,1823
-19,Store 19,Daybury,Arizona,West,Virginia Allen,2025-07-08,3287809.75,1246318.33,1769
-20,Store 20,North Danny,Kansas,Southwest,Dennis Sherman,2013-08-24,3386081.98,1274834.66,1879
-21,Store 21,Davidstad,Oregon,Southwest,Ronald Wagner,2020-06-21,3296923.91,1229594.64,1821
-22,Store 22,Wanghaven,Delaware,West,Brandi Mcgrath,2014-03-30,3372287.5,1274286.14,1791
-23,Store 23,New Deborah,North Dakota,Southeast,Cody Garcia,2017-12-21,3203470.02,1201799.31,1794
-24,Store 24,East Timothyburgh,Georgia,Southeast,Zachary Wiggins,2014-02-28,3428116.02,1301798.42,1844
-25,Store 25,New Stevenmouth,Montana,Midwest,Evan Jackson,2023-08-25,3361878.72,1251267.3,1804
-26,Store 26,Port Casey,Vermont,Northeast,Dawn Sherman,2018-10-20,3556195.74,1328135.39,1927
-27,Store 27,Maldonadoton,Tennessee,Midwest,William Oliver,2016-05-23,3205755.23,1216332.29,1745
-28,Store 28,Millerbury,Nebraska,West,Fernando Martinez,2018-02-09,3458741.92,1292922.94,1814
-29,Store 29,East Heatherfort,West Virginia,West,Marc Dixon,2012-02-25,3286536.94,1226072.25,1820
-30,Store 30,Davidburgh,Indiana,Northeast,Sara Adams,2025-02-14,3424094.04,1275074.44,1796
-31,Store 31,Cohenberg,Arizona,Southwest,Christina Heath,2021-09-08,3518336.21,1332143.55,1898
-32,Store 32,North Keithport,Wisconsin,Northeast,Kelly Parker,2016-04-14,3348780.95,1257766.43,1823
-33,Store 33,West Christinefurt,Rhode Island,Midwest,Albert Flores,2022-03-19,3535690.63,1320133.68,1906
-34,Store 34,New Tina,Alabama,Southeast,Cynthia Stein,2017-08-05,3387257.82,1262566.54,1843
-35,Store 35,Port Dakota,Alabama,Southeast,Jay Sharp,2020-03-07,3542212.95,1333665.23,1901
-36,Store 36,West Johnmouth,Iowa,Southwest,Alan Phillips,2018-06-10,3375740.65,1260957.73,1869
-37,Store 37,West Tannerbury,Florida,Northeast,Lisa Davis,2024-08-04,3502091.66,1340517.08,1829
-38,Store 38,Ochoahaven,Arkansas,Northeast,Marissa Roberts,2016-03-12,3362137.64,1255057.98,1840
-39,Store 39,Marcushaven,South Dakota,Northeast,Tiffany Flores,2014-03-13,3301749.2,1255097.63,1810
-40,Store 40,Port Austin,Missouri,West,Herbert Marsh,2021-11-03,3423516.64,1285544.78,1825
-41,Store 41,Port James,Pennsylvania,Southeast,Scott Howard,2014-11-29,3514705.73,1311538.96,1864
-42,Store 42,Port Danielbury,Pennsylvania,West,Cody Davis DDS,2013-09-21,3357902.03,1258663.28,1829
-43,Store 43,Martinezbury,California,Northeast,Michael Archer,2022-10-29,3238573.92,1229871.33,1784
-44,Store 44,West Sara,Wisconsin,Northeast,Jacob Romero,2018-02-07,3516738.53,1322525.59,1885
-45,Store 45,South Kennethstad,Maine,Southeast,Robert Nash,2013-05-24,3450714.6,1322878.28,1840
-46,Store 46,North Michaelchester,Kansas,West,Sarah Smith,2022-11-06,3405864.01,1284636.79,1834
-47,Store 47,Jasonton,Pennsylvania,Southeast,Jamie Smith,2017-09-27,3510257.74,1334890.56,1894
-48,Store 48,Kellyborough,West Virginia,West,Sherri Mcbride,2022-03-28,3383764.04,1236224.48,1819
-49,Store 49,Philipland,Kansas,Southwest,Stephanie Sellers,2013-04-09,3357845.42,1255368.04,1799
-50,Store 50,South Carriehaven,New Jersey,Midwest,Matthew Collins,2023-10-03,3349940.62,1254756.99,1874
+1,Store 1,South Lauraside,South Dakota,West,William Castro,2021-12-16,3382798.55,1259283.82,1852
+2,Store 2,East Stevenshire,Utah,Northeast,Renee Thomas,2012-11-09,3176555.19,1198949.15,1768
+3,Store 3,Lake Aaron,New York,Midwest,Kristopher Henry,2020-02-13,3307124.08,1250086.34,1806
+4,Store 4,Nealmouth,South Carolina,Midwest,Michael Garcia,2016-01-31,3412609.71,1268718.92,1847
+5,Store 5,Richardhaven,Kentucky,West,Danielle Weaver,2014-08-06,3329120.95,1243775.07,1831
+6,Store 6,Michellebury,North Carolina,Northeast,Erin Thompson,2016-12-09,3395342.83,1264731.42,1824
+7,Store 7,North Christopherside,Montana,Northeast,Misty Reynolds,2014-07-02,3526650.59,1324776.21,1883
+8,Store 8,Quinnfurt,Missouri,West,Maxwell Knapp,2019-10-01,3333724.92,1242462.38,1804
+9,Store 9,Amandastad,South Dakota,West,Thomas Curry,2019-02-15,3490916.81,1328756.84,1898
+10,Store 10,Jacobside,Montana,Southeast,Kevin Cunningham,2019-10-22,3466948.99,1299891.91,1823
+11,Store 11,North Samanthafort,Pennsylvania,Northeast,Matthew Russell,2014-01-09,3314668.59,1217277.27,1834
+12,Store 12,West Jeromebury,Pennsylvania,Southwest,Ryan Swanson,2020-10-24,3371154.18,1270738.92,1865
+13,Store 13,South Josephton,Nebraska,Southwest,Heather Massey,2024-07-16,3259355.6,1231804.11,1776
+14,Store 14,New Amandaberg,Delaware,West,Rachel Crawford,2024-08-01,3253202.52,1231311.23,1773
+15,Store 15,South Lisafurt,Vermont,Northeast,Peter Mccann,2015-02-11,3376252.1,1259214.3,1896
+16,Store 16,Thompsonhaven,New York,Midwest,Oscar Jones,2017-12-03,3340077.95,1253858.0,1774
+17,Store 17,East Kaylachester,California,Midwest,Julie Wilkins,2019-12-14,3207523.96,1197580.08,1821
+18,Store 18,Michellehaven,Maine,Southeast,Jeremy Lucas,2019-11-13,3436600.66,1287702.93,1823
+19,Store 19,Daybury,Arizona,West,Virginia Allen,2025-07-09,3287809.75,1246318.33,1769
+20,Store 20,North Danny,Kansas,Southwest,Dennis Sherman,2013-08-25,3386081.98,1274834.66,1879
+21,Store 21,Davidstad,Oregon,Southwest,Ronald Wagner,2020-06-22,3296923.91,1229594.64,1821
+22,Store 22,Wanghaven,Delaware,West,Brandi Mcgrath,2014-03-31,3372287.5,1274286.14,1791
+23,Store 23,New Deborah,North Dakota,Southeast,Cody Garcia,2017-12-22,3203470.02,1201799.31,1794
+24,Store 24,East Timothyburgh,Georgia,Southeast,Zachary Wiggins,2014-03-01,3428116.02,1301798.42,1844
+25,Store 25,New Stevenmouth,Montana,Midwest,Evan Jackson,2023-08-26,3361878.72,1251267.3,1804
+26,Store 26,Port Casey,Vermont,Northeast,Dawn Sherman,2018-10-21,3556195.74,1328135.39,1927
+27,Store 27,Maldonadoton,Tennessee,Midwest,William Oliver,2016-05-24,3205755.23,1216332.29,1745
+28,Store 28,Millerbury,Nebraska,West,Fernando Martinez,2018-02-10,3458741.92,1292922.94,1814
+29,Store 29,East Heatherfort,West Virginia,West,Marc Dixon,2012-02-26,3286536.94,1226072.25,1820
+30,Store 30,Davidburgh,Indiana,Northeast,Sara Adams,2025-02-15,3424094.04,1275074.44,1796
+31,Store 31,Cohenberg,Arizona,Southwest,Christina Heath,2021-09-09,3518336.21,1332143.55,1898
+32,Store 32,North Keithport,Wisconsin,Northeast,Kelly Parker,2016-04-15,3348780.95,1257766.43,1823
+33,Store 33,West Christinefurt,Rhode Island,Midwest,Albert Flores,2022-03-20,3535690.63,1320133.68,1906
+34,Store 34,New Tina,Alabama,Southeast,Cynthia Stein,2017-08-06,3387257.82,1262566.54,1843
+35,Store 35,Port Dakota,Alabama,Southeast,Jay Sharp,2020-03-08,3542212.95,1333665.23,1901
+36,Store 36,West Johnmouth,Iowa,Southwest,Alan Phillips,2018-06-11,3375740.65,1260957.73,1869
+37,Store 37,West Tannerbury,Florida,Northeast,Lisa Davis,2024-08-05,3502091.66,1340517.08,1829
+38,Store 38,Ochoahaven,Arkansas,Northeast,Marissa Roberts,2016-03-13,3362137.64,1255057.98,1840
+39,Store 39,Marcushaven,South Dakota,Northeast,Tiffany Flores,2014-03-14,3301749.2,1255097.63,1810
+40,Store 40,Port Austin,Missouri,West,Herbert Marsh,2021-11-04,3423516.64,1285544.78,1825
+41,Store 41,Port James,Pennsylvania,Southeast,Scott Howard,2014-11-30,3514705.73,1311538.96,1864
+42,Store 42,Port Danielbury,Pennsylvania,West,Cody Davis DDS,2013-09-22,3357902.03,1258663.28,1829
+43,Store 43,Martinezbury,California,Northeast,Michael Archer,2022-10-30,3238573.92,1229871.33,1784
+44,Store 44,West Sara,Wisconsin,Northeast,Jacob Romero,2018-02-08,3516738.53,1322525.59,1885
+45,Store 45,South Kennethstad,Maine,Southeast,Robert Nash,2013-05-25,3450714.6,1322878.28,1840
+46,Store 46,North Michaelchester,Kansas,West,Sarah Smith,2022-11-07,3405864.01,1284636.79,1834
+47,Store 47,Jasonton,Pennsylvania,Southeast,Jamie Smith,2017-09-28,3510257.74,1334890.56,1894
+48,Store 48,Kellyborough,West Virginia,West,Sherri Mcbride,2022-03-29,3383764.04,1236224.48,1819
+49,Store 49,Philipland,Kansas,Southwest,Stephanie Sellers,2013-04-10,3357845.42,1255368.04,1799
+50,Store 50,South Carriehaven,New Jersey,Midwest,Matthew Collins,2023-10-04,3349940.62,1254756.99,1874

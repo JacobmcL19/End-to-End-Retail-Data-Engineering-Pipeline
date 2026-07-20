@@ -1,10 +1,10 @@
 Step,Rows Before,Rows After,Rows Removed,Notes,Timestamp
-Remove Duplicate Customers,10000,10000,0,Duplicate customer records removed.,2026-07-19 21:38:17.003240
-Missing Customer IDs,10000,10000,0,Removed customers without IDs.,2026-07-19 21:38:17.037104
-Duplicate Products,1000,1000,0,Removed duplicate products.,2026-07-19 21:38:17.052796
-Price Validation,1000,1000,0,Removed products priced below cost.,2026-07-19 21:38:17.073706
-Duplicate Orders,100500,100030,470,Duplicate orders removed.,2026-07-19 21:38:17.168243
-Missing Customers,100030,99025,1005,Orders without customers removed.,2026-07-19 21:38:17.194314
-Missing Sales,99025,98529,496,Orders missing sales removed.,2026-07-19 21:38:17.209315
-Future Orders,98529,98328,201,Removed future-dated transactions.,2026-07-19 21:38:17.245044
-Profit Outliers,98328,91668,6660,Removed statistical outliers.,2026-07-19 21:38:17.323442
+Remove Duplicate Customers,10000,10000,0,Duplicate customer records removed.,2026-07-20 09:32:45.591065
+Missing Customer IDs,10000,10000,0,Removed customers without IDs.,2026-07-20 09:32:45.636080
+Duplicate Products,1000,1000,0,Removed duplicate products.,2026-07-20 09:32:45.646444
+Price Validation,1000,1000,0,Removed products priced below cost.,2026-07-20 09:32:45.653540
+Duplicate Orders,100500,100030,470,Duplicate orders removed.,2026-07-20 09:32:45.722235
+Missing Customers,100030,99025,1005,Orders without customers removed.,2026-07-20 09:32:45.745369
+Missing Sales,99025,98529,496,Orders missing sales removed.,2026-07-20 09:32:45.830065
+Future Orders,98529,98328,201,Removed future-dated transactions.,2026-07-20 09:32:45.885828
+Profit Outliers,98328,91668,6660,Removed statistical outliers.,2026-07-20 09:32:45.944303
